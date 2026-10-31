@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Reportes de pruebas y cobertura
+.coverage
+htmlcov/
+coverage.xml
+.pytest_cache/
